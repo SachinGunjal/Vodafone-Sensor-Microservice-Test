@@ -13,7 +13,7 @@
         <restassured.version>4.0.0</restassured.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <maven.surefire.version>2.19.1</maven.surefire.version>
-        <jackson.version>2.9.9</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
     </properties>
     <build>
         <pluginManagement>
